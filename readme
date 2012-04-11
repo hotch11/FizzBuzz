@@ -1,0 +1,5 @@
+FizzBuzz App
+
+counts 1 - 100
+
+changing numbers devisible by 3 to Fizz, devisible by 5 to Buzz and devisible by 3 or 5 to FizzBuzz.
