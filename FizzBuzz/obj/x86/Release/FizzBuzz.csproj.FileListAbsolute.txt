@@ -1,0 +1,5 @@
+C:\Users\EEE\AppData\Local\Temporary Projects\FizzBuzz\bin\Release\FizzBuzz.exe
+C:\Users\EEE\AppData\Local\Temporary Projects\FizzBuzz\bin\Release\FizzBuzz.pdb
+C:\Users\EEE\AppData\Local\Temporary Projects\FizzBuzz\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\EEE\AppData\Local\Temporary Projects\FizzBuzz\obj\x86\Release\FizzBuzz.exe
+C:\Users\EEE\AppData\Local\Temporary Projects\FizzBuzz\obj\x86\Release\FizzBuzz.pdb
